@@ -25,28 +25,3 @@ option=prompt('enter no');
 else{
   console.log('enter correct password')
 }
-var day=prompt('enter a day')
-if (day=='monday'){
-  console.log('upma');
-}
-else if(day=='tuesday'){
-  console.log('pasta');
-}
-else if(day=='wednesday'){
-  console.log('sprouts');
-}
-else if(day=='thusday'){
-  console.log('maggie');
-} 
-else if(day=='friday'){
-  console.log('vermiselly');
-}
-const name = 'Peter';
-const name1 = "Jack";
-const result = `The names are ${name} and ${name1}`;
-console.log(name1);
-let a = 'hello';
-a = 'Hello';
-console.log(a); 
-
-               
